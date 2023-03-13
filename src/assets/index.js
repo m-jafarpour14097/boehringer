@@ -9,13 +9,11 @@ import youtube from "./youtube.png";
 import instagram from "./instagram.png";
 import linkedin from "./linkedin.png";
 import heart from "./heart.png";
+import heartgroup from "./heartr-group.png";
 import arrowleft from "./Arrow-left.png";
 import arrowright from "./Arrow-right.png";
-import card from "./card.png";
-import comment from "./comment.png";
-import commentReverse from "./commentReverse.png";
-import groupHeart from "./Group-heart.png";
-import line from "./Line.png";
+import inner from "./inner-ellips.png";
+import outer from "./outer-ellips.png";
 import job1 from "./lookingJob1.png";
 import job2 from "./lookingJob2.png";
 import job3 from "./lookingJob3.png";
@@ -29,17 +27,13 @@ import news4 from "./images/news-4.jpeg";
 import news5 from "./images/news-5.jpeg";
 import news6 from "./images/news-6.jpeg";
 
+
 export {
   logo,
   rectangle,
   job3,
   job2,
   job1,
-  line,
-  groupHeart,
-  commentReverse,
-  comment,
-  card,
   arrowleft,
   arrowright,
   menu,
@@ -51,6 +45,7 @@ export {
   instagram,
   linkedin,
   heart,
+  heartgroup,
   hero_card1,
   hero_card2,
   hero_card3,
@@ -60,4 +55,6 @@ export {
   news4,
   news5,
   news6,
+  inner,
+  outer,
 };

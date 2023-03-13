@@ -188,15 +188,13 @@ export const heroCart = [
   {
     id: "hero1",
     img: hero_card1,
-    title:
-      "Boehringer Ingelheim and 3T Biosciences Join Forces to Develop Next-Generation Cancer Immunotherapies",
+    title:"Boehringer Ingelheim and 3T Biosciences Join Forces to Develop Next-Generation Cancer Immunotherapies",
     link: "https://www.boehringer-ingelheim.com/human-health/cancer/research-collaborations/new-cancer-therapeutics-collaboration-3t-bio",
   },
   {
     id: "hero2",
     img: hero_card2,
-    title:
-      "The information you are attempting to access is intended for specific audiences.",
+    title:"The information you are attempting to access is intended for specific audiences.",
     link: "https://www.boehringer-ingelheim.com/human-health/metabolic-diseases/full-data-chronic-kidney-disease-trial-efficacy",
   },
   {
